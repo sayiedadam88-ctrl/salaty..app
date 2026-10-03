@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "صلاتي",
+    "slug": "salaty-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.salaty.app",
+      "versionCode": 1
+    }
+  }
+}
